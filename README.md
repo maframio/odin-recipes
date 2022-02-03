@@ -1,2 +1,2 @@
 # odin-recipes
-site de receitas
+criando um site de receitas, usando headings, paragraphs, links, imagens
