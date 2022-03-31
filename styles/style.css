@@ -1,0 +1,19 @@
+body{
+    font-family: serif;
+    background-color:#20B2AA;
+}
+
+.title{
+    font-family: helvetica;
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 300px;
+}
+
+a{
+    text-decoration: none;
+    color:#000080;
+}
